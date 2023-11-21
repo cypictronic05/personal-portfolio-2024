@@ -1,0 +1,14 @@
+// Establecer estilos para el contenido de la terminal
+
+#terminal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: $white-color;
+  color: $dark-blue-text;
+
+  img {
+    max-width: 100%; // Optional: Ensure the image doesn't exceed the container width
+    max-height: 100%; // Optional: Ensure the image doesn't exceed the container height
+  }
+}
