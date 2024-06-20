@@ -11,7 +11,7 @@
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
+- **Emerson Gonzalez** - [https://github.com/emersondivB0](https://github.com/emersondivB0)
 
 ## Status
 
